@@ -13,7 +13,7 @@ The Cloud React Tailwind App provides valuable information about various cloud s
 - Interactive and engaging elements, including animations and sliders
 - Information about different cloud services and their advantages
 - Dynamic content rendering and efficient performance
-- SEO optimization for better visibility in search engine results
+
 
 ## Usage
 
